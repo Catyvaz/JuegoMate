@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\Visual Studio 2017\proyectos\JuegoMate\JuegoMate\bin\Debug\JuegoMate.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2017\proyectos\JuegoMate\JuegoMate\bin\Debug\JuegoMate.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\proyectos\JuegoMate\JuegoMate\bin\Debug\JuegoMate.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\proyectos\JuegoMate\JuegoMate\obj\Debug\JuegoMate.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\proyectos\JuegoMate\JuegoMate\obj\Debug\JuegoMate.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\proyectos\JuegoMate\JuegoMate\obj\Debug\JuegoMate.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\proyectos\JuegoMate\JuegoMate\obj\Debug\JuegoMate.pdb
